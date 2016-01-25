@@ -45,25 +45,25 @@
 						    <ul>
 						        <li><a href="<?= site_url('frontend_controller/room')?>">Room & Suites</a></li>
 						        <li><a href="<?= site_url('frontend_controller/restaurant')?>">Restaurant</a></li>
-						        <li><a href="#l">Packages</a>
+						        <!-- <li><a href="#">Packages</a>
 						            <ul>
 						                <li><a href="#">Family</a></li>
 						                <li><a href="#">Picnic</a></li>
 						                <li><a href="#">Honeymoon</a></li>
 						                <li><a href="#">Holiday Packages</a></li>
 						            </ul>
-						        </li>
+						        </li> -->
 						    </ul>
 						</li>
 						
 						<li><a href="<?= site_url('frontend_controller/gallery')?>">Gallery</a></li>
 						<li><a href="<?= site_url('frontend_controller/reviews')?>">Reviews</a></li>
-						<li><a href="#">Attraction</a>
+						<!-- <li><a href="#">Attraction</a>
 							<ul>
 								<li><a href="#">Events</a></li>
 								<li><a href="#">Sea Bitch</a></li>
 							</ul>
-						</li>
+						</li> -->
 						
 						<li><a href="<?= site_url('frontend_controller/contact')?>">Contact</a></li>
 					</ul>

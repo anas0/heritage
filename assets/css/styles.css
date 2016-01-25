@@ -14564,7 +14564,9 @@ body.homepage #luxury-rooms, body.homepage #special-dishes {
       backface-visibility: hidden;
       -webkit-transition: all 0.5s ease;
       -o-transition: all 0.5s ease;
-      transition: all 0.5s ease; }
+      transition: all 0.5s ease;
+      
+       }
     #our-staff ul li .name, #our-staff ul li .staff-title {
       color: #FFFFFF;
       -webkit-backface-visibility: hidden;

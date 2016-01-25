@@ -1,3 +1,21 @@
+<style type="text/css">
+    
+    #our-staff ul li::after {
+    background: inherit;
+    content: "";
+    display: block;
+    height: 350px;
+    left: -50px;
+    position: absolute;
+    top: -55px;
+    transform: rotate(-45deg);
+    width: 300px;
+    z-index: -1;
+}
+</style>
+
+
+
 <!-- Internal Page Header -->
 	<div class="internal-page-title about-page" data-parallax="scroll" data-image-src="<?= base_url('assets/img/internal-header.jpg');?>">
 		<h1>About <span>Heritage Resort</span></h1>
@@ -39,19 +57,19 @@
 		</div>
 		<!-- Staff List -->
 		<ul class="staff-list clearfix">
-            <li style="background-image: url(<?= base_url('assets/img/staff/menhazur_rahman.jpg');?>;">
+            <li class="md" style="background-image: url(<?= base_url('assets/img/staff/ed.png'); ?> ); background-repeat: no-repeat;">
                 <div class="name">Md. Menhazur <b>Rahman</b></div>
                 <div class="staff-title">Managing Director</div>
             </li>
-            <li style="background-image: url(<?= base_url('assets/img/staff/inamul_hassan.png');?>;">
+            <li style="background-image: url(<?= base_url('assets/img/staff/lll.png')?>">
                 <div class="name">Inamul <b>Hassan</b></div>
                 <div class="staff-title">Deputy Managing Director</div>
             </li>
-            <li style="background-image: url(<?= base_url('assets/img/staff/shamim_ahsan.jpg');?>;">
+            <li style="background-image: url(<?= base_url('assets/img/staff/edd.png');?>">
                 <div class="name">Md. Shamim <b>Ahsan</b></div>
                 <div class="staff-title">Executive Director</div>
             </li>
-            <li style="background-image: url(<?= base_url('assets/img/staff/sayeedur_rahman.jpg');?>;">
+            <li style="background-image: url(<?= base_url('assets/img/staff/sayeedur_rahman.jpg');?>">
                 <div class="name">Sayeedur <b>Rahman</b></div>
                 <div class="staff-title">Genreal Managerr</div>
             </li>

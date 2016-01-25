@@ -183,8 +183,8 @@
 						<li><a href="#" data-filter=".park">Park</a></li>
 						<li><a href="#" data-filter=".pool">Pool & Bridge</a></li>
 						<li><a href="#" data-filter=".fuara">Fuara</a></li>
-						<li><a href="#" data-filter=".green">Green House</a></li>
-						<li><a href="#" data-filter=".saff">Saff</a></li>
+<!-- 						<li><a href="#" data-filter=".green">Green House</a></li>
+ -->						<li><a href="#" data-filter=".saff">Saff</a></li>
 					</ul>
 				</div>
 			</div>

@@ -24,8 +24,8 @@
 				<h4>Get in Touch</h4>
 				<div class="widget-content">
 					<ul>
-						<li><i class="fa fa-map-marker "></i>133 Elizabethstreet, Sydney 4000, Australia</li>
-						<li><i class="fa fa-phone"></i>0185 26 37 48 59</li>
+						<li><i class="fa fa-map-marker "></i>Heritage Resort, Narsingdi</li>
+						<li><i class="fa fa-phone"></i>88-02-8414359</li>
 						<li><i class="fa fa-envelope-o"></i>info@Heritage.com</li>
 					</ul>
 					<ul class="list-inline social-icons">
@@ -47,9 +47,10 @@
 			<ul class="list-inline">
 				<li><a href="#">Home</a></li>
 				<li><a href="#">About</a></li>
+				<li><a href="#">Services</a></li>
 				<li><a href="#">Gallery</a></li>
-				<li><a href="#">Events</a></li>
-				<li><a href="#">Rooms</a></li>
+				<li><a href="#">Reviews</a></li>
+				<li><a href="#">Contact</a></li>
 			</ul>
 		</nav>
 		<div class="copy-right">

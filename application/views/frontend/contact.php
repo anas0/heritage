@@ -69,6 +69,10 @@
   	margin-top: 35px;
   }
 
+  .contact-form-container{
+  	padding-top: 25px;
+  }
+
 	</style>
 
 	<div class="internal-page-title about-page" data-parallax="scroll" data-image-src="<?= base_url('assets/img/contact-header.jpg');?>">
@@ -92,12 +96,12 @@
 			</div>
 			<div class="contact-info-box col-md-4">
 				<div class="inner-content">
-					<i class="fa fa-phone"></i><div class="info">0185 26 37 48 59</div>
+					<i class="fa fa-phone"></i><div class="info">88-02-8414359</div>
 				</div>
 			</div>
 			<div class="contact-info-box col-md-4">
 				<div class="inner-content">
-					<i class="fa fa-map-marker "></i><div class="info">133 Elizabethstreet, Sydney 4000, Australia</div>
+					<i class="fa fa-map-marker "></i><div class="info">Heritage Resort, Narsingdi</div>
 				</div>
 			</div>
 		</div>
